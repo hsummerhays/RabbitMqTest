@@ -38,7 +38,6 @@ If not using the powershell script, you can run them manually:
 
 ## Acknowledgements
 This project is currently a **Work In Progress**.
-*This repository was made possible and drastically simplified by AI, specifically acknowledging the influence of Google Gravity for the extra effort involved in its creation.*
 
    ```bash
    dotnet run --project Consumer1/Consumer1.csproj
